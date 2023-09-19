@@ -3,7 +3,7 @@ The additional software or scripts of the oncoClassSurv project
 
 ### Desktop software
 
-In order to facilitate the software distribution and use, we have packaged the shinyAPP as an executable desktop software (.exe) that can be run on the Windows operating system. 
+In order to facilitate the software distribution and use, we have packaged the shiny APP as an executable desktop software (.exe) that can be run on the Windows operating system. 
 
 Notice: For academic research only.
 
