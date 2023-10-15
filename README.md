@@ -8,7 +8,11 @@ In order to facilitate the software distribution and use, we have packaged the s
 Notice: For academic research only.
 
 
-[Download from Baidu Netdisk](https://pan.baidu.com/s/1ldXgSgsZ3U9y0TF0QyRwsQ?pwd=gywx)
+[Download software from Baidu Netdisk](https://pan.baidu.com/s/1ldXgSgsZ3U9y0TF0QyRwsQ?pwd=gywx)
 
-[Download from Google Drive](https://drive.google.com/drive/folders/1fFMwaS42rvdWmpA43WqT3aIAZTbxHLDp?usp=sharing)
+[Download software from Google Drive](https://drive.google.com/drive/folders/1fFMwaS42rvdWmpA43WqT3aIAZTbxHLDp?usp=sharing)
 
+### Additional data resource
+[Download data from Baidu Netdisk](https://pan.baidu.com/s/1XXDYIjCJgyiupRshmKPUcg?pwd=hduh)
+
+[Download data from Google Drive](https://drive.google.com/drive/folders/151ZPORIzC_hquOycWhEGmABIvqWVquO5?usp=sharing)
